@@ -14,6 +14,7 @@
 
 ## 📋 Overview
 
+<<<<<<< HEAD
 This repository contains a Google Colab notebook for interactive data analysis and experimentation. The notebook demonstrates practical data science workflows including data loading, preprocessing, exploratory data analysis (EDA), statistical analysis, and data visualisation techniques.
 
 The notebook is designed to be interactive and educational, showcasing various Python libraries and data manipulation techniques commonly used in data science projects. It provides a hands-on environment for exploring datasets, performing transformations, and generating insights through visualisations and statistical summaries.
@@ -26,6 +27,13 @@ The notebook is designed to be interactive and educational, showcasing various P
 
 - **View on GitHub:** [notebook.ipynb](notebook.ipynb)
 - **Open in Google Colab:** [Open in Colab](https://colab.research.google.com/drive/1WsnSnIngH8xNdBNBWeJgJbKD2uMilVdS?usp=sharing)
+=======
+This repository contains a Google Colab notebook for interactive data analysis and experimentation. The notebook provides an environment for exploring data, running analyses, and visualising results.
+
+## 🔗 Access the Notebook
+
+[Open in Google Colab](https://colab.research.google.com/drive/1WsnSnIngH8xNdBNBWeJgJbKD2uMilVdS?usp=sharing)
+>>>>>>> 6dc29b1277fc5f9a34cfc09b52beb0eb9d4ca845
 
 ## 💻 Technologies Used
 
